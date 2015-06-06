@@ -9,3 +9,4 @@ This OS will have:
 	-Object Oriented System API
 	-Mouse and Keyboard Support
 	-Possible TCP/IP stack
+	-Bootup Sound
